@@ -1,5 +1,5 @@
 click==6.3
-Flask==0.10.1
+Flask==1.0
 Flask-FlatPages==0.6
 Frozen-Flask==0.12
 itsdangerous==0.24
